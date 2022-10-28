@@ -7,7 +7,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import ParseMode
 from aiogram.utils import executor
 
-API_TOKEN = '5797856618:AAFUq3ZJTLzawQ8sVR8flGXr-RrQMK4lakY'
+API_TOKEN = 'TOKEN'
 
 bot = Bot(token=API_TOKEN)
 
